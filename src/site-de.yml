@@ -1,0 +1,21 @@
+# Warning, this is an auto-generated file, do not modify!
+# Modify this file instead: site-all.yml
+pages:
+- hidden: true
+  name: ''
+  navtitle: Wilkommen!
+  src: common/index.html
+  title: Willkommen!
+- name: docs
+  navtitle: Dokumentation
+  title: Dokumentation
+  url: /doku
+- name: github
+  navtitle: Github
+  title: Github
+  url: https://github.com/zilp-zalp
+- name: contact
+  navtitle: Kontakt
+  title: Kontakt
+  url: zelp@zilpzalp.eu
+title: Zilp-Zalp

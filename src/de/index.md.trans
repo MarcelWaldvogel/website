@@ -1,0 +1,137 @@
+07477b6933c770f6:
+  de: >-
+    Zilp-Zalp ist ein <md-strong>quelloffene</md-strong>, <md-strong>frei
+    nutzbares</md-strong> Software-System für die <md-strong>digital-analoge</md-strong>
+    Kontaktnachverfolgung. Es wurde mit Prinzipien des <md-strong>Privacy
+    By Design & Default</md-strong> gestaltet und minimiert systematisch
+    Risiken für Betroffene, deren Daten verarbeitet werden.
+  en: >-
+    Zilp-Zalp is an **open source**, **freely usable** software
+    system for **digital-analog** contact tracing. It was designed
+    with **Privacy By Design & Default** principles and systematically
+    minimizes risks for data subjects whose data is processed.
+1c667d0ebf38cb80:
+  de: <md-heading v="#">Test test</md-heading>
+  en: '# Test test'
+1cb86faea5ed779a:
+  de: >-
+    Zilp-Zalp kann sehr einfach <md-strong>dezentral</md-strong>
+    und <md-strong>föderiert</md-strong> betrieben werden, Daten
+    können <md-strong>ausfallsicher</md-strong> und <md-strong>redundant</md-strong>
+    gespeichert werden. Zilp-Zalp implementiert als einziges System
+    zur Kontaktnachverfolgung eine <md-strong>starke kryptographische
+    Zweckbindung</md-strong> von Daten. Zudem minimiert Zilp-Zalp
+    systematisch Möglichkeiten zur Erfassung und Auswertung von
+    Meta-Daten. Wir sind überzeugt, dass Zilp-Zalp das datenschutzfreundlichste
+    und sicherste Software-System zur Kontaktnachverfolgung ist.
+  en: >-
+    Zilp-Zalp can be very easily operated in a **decentralized**
+    and **federated** manner, data can be stored in a **fail-safe**
+    and **redundant** manner. Zilp-Zalp is the only contact tracking
+    system that implements **strong cryptographic earmarking of**
+    data. In addition, Zilp-Zalp systematically minimizes opportunities
+    for meta-data collection and analysis. We are convinced that
+    Zilp-Zalp is the most privacy-friendly and secure contact
+    tracking software system.
+24a7ab343742d8a2:
+  de: <md-heading v="##">Weitere Informationen</md-heading>
+  en: '## Further information'
+25f0ade9a603eee9:
+  de: >-
+    Schauen Sie doch in <md-link href="L2RvY3M=">unsere Dokumentation</md-link>
+    und auf unsere <md-link href="aHR0cHM6Ly9naXRodWIuY29tL3ppbHAtemFscA==">Github-Seite</md-link>
+    um mehr über den Einsatz von Zilp-Zalp zu erfahren. Oder <md-link
+    href="bWFpbHRvOnplbHBAemlscHphbHAuZXU=">kontaktieren Sie uns</md-link>
+    einfach!
+  en: >-
+    Have a look at [our documentation](/docs) and our [Github
+    page](https://github.com/zilp-zalp) to learn more about using
+    Zilp-Zalp. Or just [contact us](mailto:zelp@zilpzalp.eu) !
+594d3c62351fbc00:
+  de: Dies ist ein Testdsfd sfs fsfsd
+  en: This is a testdsfd sfs fsfsd
+73abb0db9ee40b39:
+  de: >-
+    Bestehende kommerzielle Lösungen zur digitalen Kontaktnachverfolgung
+    sind nicht privatsphäre-freundlich. Wir finden, dass digitale
+    Kontaktnachverfolgung kein Geschäftsmodell sein darf. Software
+    für die Kontaktnachverfolgung mit personenbezogenen Daten
+    sollte stattdessen gemeinwohlorientiert gestaltet und ohne
+    kommerzielle Interessen betrieben werden. Vorab sollte streng
+    geprüft werden, ob eine solche Kontaktnachverfolgung überhaupt
+    notwendig ist.
+  en: >-
+    Existing commercial digital contact tracing solutions are
+    not privacy-friendly. We believe that digital contact tracing
+    should not be a business model. Contact tracing software with
+    personal data should instead be designed for the common good
+    and operated without commercial interests. It should be strictly
+    assessed in advance whether such contact tracing is necessary
+    at all.
+885c85f6653537a0:
+  de: >-
+    Bestehende kommerzielle Lösungen zur digitalen Kontaktnachverfolgung
+    sind nicht privatsphäre-freundlich.
+  en: >-
+    Existing commercial digital contact tracking solutions are
+    not privacy friendly.
+8ef9bcf0b1526075:
+  de: >-
+    Dies ist ein Testdsfd sfs fsfsd sfs fsfdsfjdsfdsjfds jslkfjdslkf
+    slkfjslkf jslfjs lfjslkfjs lfjslkfjds lkfjslkfjdslfjdslf jsfldsjf
+    lskjf lskjfldskj
+  en: >-
+    This is a Testdsfd sfs fsfsd sfs fsfdsfjdsjfds jslkfjdslkf
+    slkfjslkf jslfjs lfjslkfjs lfjslkfjds lkfjslkfjdslf jsfldsjf
+    lskjf lskjfldskj
+9f722959a023c02a:
+  de: Dies ist ein Test
+  en: This is a test
+a5ad3bca888630b5:
+  de: 'Zilp-Zalp ist eine '
+  en: 'Zilp-Zalp is a '
+a68dc6586758553e:
+  de: <md-heading v="##">dsfsf sfdsfsfd sfd</md-heading>
+  en: '## dsfsf sfdsfsfd sfd'
+a74981f3b59c8175:
+  de: <md-heading v="#">Warum Zilp-Zalp?</md-heading>
+  en: '# Why Zilp-Zalp?'
+ab5a0c1b97a4a081:
+  de: >-
+    Schauen Sie in <md-link href="L2RvY3M=">unsere Dokumentation</md-link>
+    und auf unsere <md-link href="aHR0cHM6Ly9naXRodWIuY29tL3ppbHAtemFscA==">Github-Seite</md-link>
+    um mehr über den Einsatz von Zilp-Zalp zu erfahren. Oder <md-link
+    href="bWFpbHRvOnplbHBAemlscHphbHAuZXU=">kontaktieren Sie uns</md-link>
+    einfach!
+  en: >-
+    Check out [our documentation](/docs) and our [Github page](https://github.com/zilp-zalp)
+    to learn more about using Zilp-Zalp. Or just [contact us](mailto:zelp@zilpzalp.eu)
+    !
+abcd62d29b929735:
+  de: >-
+    Zilp-Zalp ist ein <md-strong>quelloffene</md-strong>, <md-strong>frei
+    nutzbares</md-strong> Software-System für die digital-analoge
+    Kontaktnachverfolgung. Es wurde mit Prinzipien des <md-strong>Privacy
+    By Design & Default</md-strong> gestaltet und minimiert systematisch
+    Risiken für Betroffene, deren Daten verarbeitet werden.
+  en: >-
+    Zilp-Zalp is an **open source**, **freely usable** software
+    system for digital-analog contact tracing. It was designed
+    with **Privacy By Design & Default** principles and systematically
+    minimizes risks for data subjects whose data is processed.
+b6233b1b491362de:
+  de: >2-
+     Kontaktnachverfolgung sollte kein Geschäftsmodell sein. Software
+    für die Kontaktnachverfolgung mit personenbezogenen Daten
+    sollte gemeinwohlorientiert gestaltet und ohne kommerzielle
+    Interessen betrieben werden. Vorab sollte streng geprüft werden,
+    ob eine solche Kontaktnachverfolgung überhaupt notwendig ist.
+  en: >2-
+     Contact tracing should not be a business model. Contact tracing
+    software with personal data should be designed for the common
+    good and operated without commercial interests. It should
+    be strictly assessed in advance whether such contact tracing
+    is necessary at all.
+e3b0c44298fc1c14:
+  de: ''
+  en: ''

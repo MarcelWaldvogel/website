@@ -1,0 +1,85 @@
+lp:
+  feature-1:
+    text:
+      _t:
+        de: 6e34863aadf03507
+        en: 6e34863aadf03507
+      de: >-
+        Zilp-Zalp ist sehr einfach zu nutzen. Es erfordert keine
+        Installation von Smartphone-Apps für Nutzer und keine
+        komplexen Registrierungsprozesse für Betreiber von Ortschaften.
+        Die Einrichtung dauert weniger als 5 Minuten.
+      en: >-
+        Zilp-Zalp is very easy to use. It requires no smartphone
+        app installation for users and no complex registration
+        processes for locality operators. The setup takes less
+        than 5 minutes.
+    title:
+      _t:
+        de: e08b7d96171be8d4
+        en: e08b7d96171be8d4
+      de: >-
+        Sichere, privatsphäre-freundliche Kontaktnachverfolgung
+        für uns alle
+      en: Secure, privacy-friendly contact tracing for all of
+        us
+  feature-2:
+    text:
+      _t:
+        de: 9846e12bec34c5cd
+        en: 9846e12bec34c5cd
+      de: "Zilp-Zalp bietet als Ergänzung zur rein digitalen Nutzung\
+        \ einen einfachen, papiergestützten Prozess zur Kontaktnachverfolgung\
+        \ der niemanden ausschließt und die gleichen hohen Privatpshäre-Garantien\
+        \ bietet wie die digitale Kontaktnachverfolgung. "
+      en: "Zilp-Zalp offers a simple, paper-based contact tracing\
+        \ process to complement digital-only use that excludes\
+        \ no one and offers the same high privacy guarantees as\
+        \ digital contact tracing. "
+    title:
+      _t:
+        de: c6fd9c7f5494d3e4
+        en: c6fd9c7f5494d3e4
+      de: >-
+        Barrierefreie Nutzung durch Kombination digitaler und
+        analoger Technologien.
+      en: >-
+        Barrier-free use through a combination of digital and
+        analogue technologies.
+  feature-3:
+    text:
+      _t:
+        de: 331dcae91ce731f6
+        en: 331dcae91ce731f6
+      de: "Zilp-Zalp reduziert systematisch die Erfassung und\
+        \ Verarbeitung von personenbezogenen Daten und bietet\
+        \ bessere Sicherheits- & Privatsphäre- Garantien als andere\
+        \ Systeme. Zilp-Zalp kann zudem dezentral und föderiert\
+        \ betrieben werden. "
+      en: "Zilp-Zalp systematically reduces the collection and\
+        \ processing of personal data and offers better security\
+        \ & privacy guarantees than other systems. Zilp-Zalp can\
+        \ also be operated in a decentralized and federated manner. "
+    title:
+      _t:
+        de: c20c6143d378fcc6
+        en: c20c6143d378fcc6
+      de: Echtes "Privacy By Design"
+      en: True Privacy By Design
+  teaser:
+    _t:
+      de: 1eee4ff53a7c326e
+      en: 1eee4ff53a7c326e
+    de: >-
+      Zilp-Zalp ist eine nicht-kommerzielle, quellenoffene Software
+      für die privatsphäre-freundliche Kontaktnachverfolgung mit
+      personenbezogenen Daten.
+    en: >-
+      Zilp-Zalp is a non-commercial, open source software for
+      privacy-friendly contact tracing with personal data.
+  title:
+    _t:
+      de: 673cec5249cded16
+      en: 673cec5249cded16
+    de: Zilp-Zalp!
+    en: Zilp-Zalp!

@@ -1,22 +1,48 @@
-[English version](README.md) // [Deutsche Version](README-de.md)
+# KIProtect Documentation
 
+These files are used to build the documentation at https://kiprotect.com/docs.
 
-# Zilp-Zalp - Privacy Friendly Contact Tracking</md-list>
+## Setting up the environment
 
-<img src="/materials/images/zilpzalp-1.png" alt="Zilp-Zalp - Logo" title="Zilp-Zalp - Logo" width="40%" />
+To build the docs, you will need a few tools installed on your machine:
 
-Welcome to the Zilp-Zalp project! Please visit our [website](https://zilpzalp.eu) to learn more about the project.
+- Node.js
+- Python 3, pip3 and virtualenv.
+- `inotify-tools` or `fswatch` if you're on Mac (only required for the watch command).
 
-# Licenses
+You can then install all website dependencies by running
 
-The Zilp-Zalp software code is licensed under Affero GPL version 3 (AGPL-3.0). Please see the [license file for](LICENSE) more information. The license was chosen to ensure that any changes to Zilp-Zalp will benefit the community.
+    make setup
 
-Documentation is licensed under the [Creative Commons - Attribution ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. Please see the [license file for](DOCS-LICENSE) more information (translated license texts can be found at the link above).</md-list>
+This will set up a virtual Python environment, require the Python dependencies
+into it and also install all required node modules.
 
-# Feedback
+## Building the docs
 
-If you have any questions [just contact us](mailto:zelp@zilpzalp.eu).
+To build the docs simply run Make:
 
-# Participation
+```bash
+make
+```
 
-We are happy about your contribution to the project! In order to ensure compliance with the licensing conditions and the future development of the project, we require a signed declaration of consent for all contributions in accordance with the [Harmony standard](http://selector.harmonyagreements.org). Please sign the corresponding document for [natural persons](.clas/Zilp-Zalp-Individual.pdf) or for [organizations](.clas/Zilp-Zalp-Entity.pdf) and send it to [us](mailto:zelp@zilpzalp.eu).
+## Serving the docs
+
+To serve the docs, simply run
+
+```bash
+make serve
+```
+
+This will start a HTTP server on port 8000 serving a hot-reloading version of
+the docs.
+
+## Watching out for changes
+
+To continuously update the build when things change, simply run
+
+```bash
+make watch
+```
+
+The watch command will automatically serve the docs as well using a
+hot-reloading capable server.

@@ -1,0 +1,22 @@
+title: Zilp-Zalp
+pages:
+  - src|f: "common/index.html"
+    title|t: Willkommen!
+    navtitle|t: Wilkommen!
+    hidden: true
+    name: ''
+  - name: 'docs'
+    title|t: Dokumentation
+    navtitle|t: Dokumentation
+    url|ld: # this is a language dictionary
+      en: /en/docs
+      de: /doku
+      default: /doku
+  - name: github
+    title|t: Github
+    navtitle|t: Github
+    url: https://github.com/zilp-zalp
+  - name: contact
+    title|t: Kontakt
+    navtitle|t: Kontakt
+    url: zelp@zilpzalp.eu
