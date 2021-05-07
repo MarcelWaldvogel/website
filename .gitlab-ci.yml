@@ -32,7 +32,6 @@ deploy-website:
     - export LC_ALL=en_US.UTF-8
   script:
     - if [ ! -n "$SERVER_SSH_KEY" ]; then exit 0; fi
-    - cd docs
     - mkdir ~/.ssh
     - chmod 700 ~/.ssh
     - echo "$SERVER_SSH_CONFIG" > ~/.ssh/config
