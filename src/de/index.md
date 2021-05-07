@@ -8,4 +8,4 @@ Zilp-Zalp kann sehr einfach **dezentral** und **föderiert** betrieben werden, D
 
 ## Weitere Informationen
 
-Schauen Sie doch in [unsere Dokumentation](/docs) und auf unsere [Github-Seite](https://github.com/zilp-zalp) um mehr über den Einsatz von Zilp-Zalp zu erfahren. Oder [kontaktieren Sie uns](mailto:zelp@zilpzalp.eu) einfach!
+Schauen Sie doch in [unsere Dokumentation]({% if lang == 'en'%}/en/docs{% else %}/doku{%endif%}) und auf unsere [Github-Seite](https://github.com/zilp-zalp) um mehr über den Einsatz von Zilp-Zalp zu erfahren. Oder [kontaktieren Sie uns](mailto:zelp@zilpzalp.eu) einfach!

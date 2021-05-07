@@ -8,6 +8,7 @@ pages:
   title: Welcome!
 - name: docs
   navtitle: Documentation
+  slug: docs
   title: Documentation
   url: /en/docs
 - name: github
@@ -17,5 +18,5 @@ pages:
 - name: contact
   navtitle: Contact
   title: Contact
-  url: zelp@zilpzalp.eu
+  url: mailto:zelp@zilpzalp.eu
 title: Zilp-Zalp

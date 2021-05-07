@@ -9,4 +9,4 @@ Zilp-Zalp can be very easily operated in a **decentralized** and **federated** m
 
 ## Further information
 
-Have a look at [our documentation](/docs) and our [Github page](https://github.com/zilp-zalp) to learn more about using Zilp-Zalp. Or just [contact us](mailto:zelp@zilpzalp.eu) !
+Have a look at [our documentation]({% if lang == 'en'%}/en/docs{% else %}/doku{%endif%}) and our [Github page](https://github.com/zilp-zalp) to learn more about using Zilp-Zalp. Or just [contact us](mailto:zelp@zilpzalp.eu) !

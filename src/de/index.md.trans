@@ -10,6 +10,30 @@
     system for **digital-analog** contact tracing. It was designed
     with **Privacy By Design & Default** principles and systematically
     minimizes risks for data subjects whose data is processed.
+0f7ee219a04aa2d0:
+  de: >-
+    Schauen Sie doch in <md-link href="PGlnbm9yZSB2PSJleVVnYVdZZ2JHRnVaeUE5UFNBblpXNG5KWDA9IiAvPi9lbi9kb2NzeyUgZWxzZSAlfS9kb2t1eyVlbmRpZiV9">unsere
+    Dokumentation</md-link> und auf unsere <md-link href="aHR0cHM6Ly9naXRodWIuY29tL3ppbHAtemFscA==">Github-Seite</md-link>
+    um mehr über den Einsatz von Zilp-Zalp zu erfahren. Oder <md-link
+    href="bWFpbHRvOnplbHBAemlscHphbHAuZXU=">kontaktieren Sie uns</md-link>
+    einfach!
+  en: >-
+    Have a look at [our documentation]({% if lang == 'en'%}/en/docs{%
+    else %}/doku{%endif%}) and our [Github page](https://github.com/zilp-zalp)
+    to learn more about using Zilp-Zalp. Or just [contact us](mailto:zelp@zilpzalp.eu)
+    !
+15c595eea95b7c41:
+  de: >-
+    Schauen Sie doch in <md-link href="PGlnbm9yZSB2PSJlM3NuWkc5amN5ZDhhSEpsWm4xOSIgLz4=">unsere
+    Dokumentation</md-link> und auf unsere <md-link href="aHR0cHM6Ly9naXRodWIuY29tL3ppbHAtemFscA==">Github-Seite</md-link>
+    um mehr über den Einsatz von Zilp-Zalp zu erfahren. Oder <md-link
+    href="bWFpbHRvOnplbHBAemlscHphbHAuZXU=">kontaktieren Sie uns</md-link>
+    einfach!
+  en: >-
+    Have a look at [our documentation]({{'docs'|href}}) and our
+    [Github page](https://github.com/zilp-zalp) to learn more
+    about using Zilp-Zalp. Or just [contact us](mailto:zelp@zilpzalp.eu)
+    !
 1c667d0ebf38cb80:
   de: <md-heading v="#">Test test</md-heading>
   en: '# Test test'

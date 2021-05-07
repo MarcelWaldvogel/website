@@ -8,6 +8,7 @@ pages:
   - name: 'docs'
     title|t: Dokumentation
     navtitle|t: Dokumentation
+    slug: docs
     url|ld: # this is a language dictionary
       en: /en/docs
       de: /doku
@@ -19,4 +20,4 @@ pages:
   - name: contact
     title|t: Kontakt
     navtitle|t: Kontakt
-    url: zelp@zilpzalp.eu
+    url: mailto:zelp@zilpzalp.eu
