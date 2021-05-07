@@ -71,9 +71,97 @@
     Have a look at [our documentation](/docs) and our [Github
     page](https://github.com/zilp-zalp) to learn more about using
     Zilp-Zalp. Or just [contact us](mailto:zelp@zilpzalp.eu) !
+274a4538ff8f04a8:
+  de: "Zilp-Zalp ist ein <md-strong>quelloffenes</md-strong>,\
+    \ <md-strong>frei nutzbares</md-strong> Software-System für\
+    \ die <md-strong>digital-analoge</md-strong> Kontaktnachverfolgung.\
+    \ Es wurde nach Prinzipien des <md-strong>Privacy By Design</md-strong>\
+    \ gestaltet und minimiert systematisch Privatshäre-Risiken\
+    \ für Betroffene, deren Daten verarbeitet werden. Die Software\
+    \ schützt auch Betreiber von Ortschaften und verhindert technisch,\
+    \ dass die zur reinen Kontaktnachverfolgung erhobenen Daten\
+    \ anderweitig eingesetzt werden können. "
+  en: "Zilp-Zalp is an **open source**, **freely usable** software\
+    \ system for **digital-analog** contact tracing. It was designed\
+    \ according to **Privacy By Design** principles and systematically\
+    \ minimizes privacy risks for data subjects whose data is\
+    \ processed. The software also protects operators of localities\
+    \ and technically prevents the data collected for pure contact\
+    \ tracing from being used elsewhere. "
+316ad2bfe5035081:
+  de: >-
+    Zilp-Zalp kann sehr einfach <md-strong>dezentral</md-strong>
+    betrieben werden, Daten können <md-strong>ausfallsicher</md-strong>
+    und <md-strong>redundant</md-strong> in einer <md-strong>föderierten
+    Infrastruktur</md-strong> gespeichert werden. Zilp-Zalp implementiert
+    als einziges System zur Kontaktnachverfolgung zudem eine <md-strong>starke
+    kryptographische Zweckbindung</md-strong> von Daten.
+  en: >-
+    Zilp-Zalp can very easily be operated in a **decentralized**
+    manner, data can be stored **fail-safe** and **redundantly**
+    in a **federated infrastructure**. Zilp-Zalp is also the only
+    contact tracking system to implement **strong cryptographic
+    earmarking of** data.
+4b19fa5a3c43389f:
+  de: >2-
+     Kontaktnachverfolgung sollte kein Geschäftsmodell sein. Software
+    für die Kontaktnachverfolgung mit personenbezogenen Daten
+    sollte <md-strong>gemeinwohl-orientiert</md-strong> gestaltet
+    und <md-strong>ohne kommerzielle Interessen</md-strong> betrieben
+    werden. Vorab sollte streng geprüft werden, ob eine solche
+    Kontaktnachverfolgung überhaupt notwendig ist.
+  en: >2-
+     Contact tracing should not be a business model. Contact tracing
+    software with personal data should be designed for the **common
+    good** and operated **without commercial interests**. It should
+    be strictly assessed in advance whether such contact tracing
+    is necessary at all.
+549106169a39184c:
+  de: >2-
+     Kontaktnachverfolgung sollte kein Geschäftsmodell sein. Software
+    für die Kontaktnachverfolgung mit personenbezogenen Daten
+    sollte <md-strong>gemeinwohl-orientiert</md-strong> gestaltet
+    und <md-strong>ohne kommerzielle Interessen</md-strong> betrieben
+    werden (vorab sollte zudem streng geprüft werden, ob eine
+    solche Kontaktnachverfolgung überhaupt notwendig ist oder
+    ob komplett anonyme Lösungen zu bevorzugen sind).
+  en: >2-
+     Contact tracing should not be a business model. Contact tracing
+    software with personal data should be designed **with the
+    public good** in mind and should be operated **without commercial
+    interests** (it should also be rigorously assessed in advance
+    whether such contact tracing is necessary at all or whether
+    completely anonymous solutions are preferable).
 594d3c62351fbc00:
   de: Dies ist ein Testdsfd sfs fsfsd
   en: This is a testdsfd sfs fsfsd
+5955de49ad2022e9:
+  de: >-
+    Zudem minimiert Zilp-Zalp systematisch Möglichkeiten zur Erfassung
+    und Auswertung von Meta-Daten, die neben den eigentlichen
+    Daten in vielen anderen Systemen ein erhebliches Privatsphäre-Risiko
+    darstellen. Wir sind überzeugt, dass Zilp-Zalp das datenschutzfreundlichste
+    und sicherste Software-System zur Kontaktnachverfolgung ist.
+    Es erfüllt zudem alle gesetzlichen Anforderungen an die Kontaktnachverfolgung
+    und sollte daher kommerziell betriebenen Systemen bevorzugt
+    werden.
+  en: >-
+    In addition, Zilp-Zalp systematically minimizes opportunities
+    to collect and analyze meta-data, which, in addition to the
+    actual data, poses a significant privacy risk in many other
+    systems. We are convinced that Zilp-Zalp is the most privacy-friendly
+    and secure contact tracking software system. It also meets
+    all legal requirements for contact tracking and should therefore
+    be preferred over commercially operated systems.
+6ecbddbe05fb1c92:
+  de: >-
+    Eine anlasslose Entschlüsselung dieser ist bei Zilp-Zalp nicht
+    möglich, die Kontrolle über die Daten liegt vielmehr allein
+    bei betroffenen Personen<md-link>^1</md-link>.
+  en: >-
+    With Zilp-Zalp, it is not possible to decrypt the data without
+    a reason; the control over the data lies solely with the persons
+    concerned^1.
 73abb0db9ee40b39:
   de: >-
     Bestehende kommerzielle Lösungen zur digitalen Kontaktnachverfolgung
@@ -92,6 +180,61 @@
     and operated without commercial interests. It should be strictly
     assessed in advance whether such contact tracing is necessary
     at all.
+755e53dbb5b6dc5f:
+  de: >-
+    Eine anlasslose Entschlüsselung dieser ist bei Zilp-Zalp nicht
+    möglich, die Kontrolle der Daten liegt vielmehr allein bei
+    betroffenen Personen<md-link>^1</md-link>.
+  en: >-
+    An unprovoked decryption of these is not possible with Zilp-Zalp,
+    the control of the data lies rather alone with persons concerned^1.
+7f6e4a5a256935d2:
+  de: >-
+    Zilp-Zalp kann sehr einfach <md-strong>dezentral</md-strong>
+    betrieben werden, Daten können <md-strong>ausfallsicher</md-strong>
+    und <md-strong>redundant</md-strong> in einer <md-strong>föderierten
+    Infrastruktur</md-strong> gespeichert werden. Zilp-Zalp implementiert
+    als einziges System zur Kontaktnachverfolgung zudem eine <md-strong>starke
+    kryptographische Zweckbindung</md-strong> von Daten. Eine
+    anlasslose Entschlüsselung von Daten ist bei Zilp-Zalp nicht
+    möglich, die Kontrolle der Daten liegt vielmehr allein bei
+    betroffenen Personen. Zudem minimiert Zilp-Zalp systematisch
+    Möglichkeiten zur Erfassung und Auswertung von Meta-Daten,
+    die neben den eigentlichen Daten in vielen anderen Systemen
+    ein erhebliches Privatsphäre-Risiko darstellen. Wir sind überzeugt,
+    dass Zilp-Zalp das datenschutzfreundlichste und sicherste
+    Software-System zur Kontaktnachverfolgung ist. Es erfüllt
+    zudem alle gesetzlichen Anforderungen an die Kontaktnachverfolgung
+    und sollte daher kommerziell betriebenen Systemen bevorzugt
+    werden.
+  en: >-
+    Zilp-Zalp can very easily be operated in a **decentralized**
+    manner, data can be stored **fail-safe** and **redundantly**
+    in a **federated infrastructure**. Zilp-Zalp is the only contact
+    tracing system that also implements **strong cryptographic
+    earmarking of** data. With Zilp-Zalp, data cannot be decrypted
+    without a reason; rather, the control of data rests solely
+    with affected individuals. In addition, Zilp-Zalp systematically
+    minimizes opportunities for the collection and analysis of
+    meta-data, which, in addition to the actual data, poses a
+    significant privacy risk in many other systems. We are convinced
+    that Zilp-Zalp is the most privacy-friendly and secure contact
+    tracking software system. It also meets all legal requirements
+    for contact tracking and should therefore be preferred over
+    commercially operated systems.
+877ae30696622ef2:
+  de: >-
+    Zilp-Zalp ist ein <md-strong>quelloffenes</md-strong>, <md-strong>frei
+    nutzbares</md-strong> Software-System für die <md-strong>digital-analoge</md-strong>
+    Kontaktnachverfolgung. Es wurde nach Prinzipien des <md-strong>Privacy
+    By Design</md-strong> gestaltet und minimiert systematisch
+    Privatshäre-Risiken für Betroffene, deren Daten verarbeitet
+    werden.
+  en: >-
+    Zilp-Zalp is an **open source**, **freely usable** software
+    system for **digital-analog** contact tracing. It was designed
+    according to **Privacy By Design** principles and systematically
+    minimizes privacy risks for data subjects whose data is processed.
 885c85f6653537a0:
   de: >-
     Bestehende kommerzielle Lösungen zur digitalen Kontaktnachverfolgung
@@ -99,6 +242,20 @@
   en: >-
     Existing commercial digital contact tracking solutions are
     not privacy friendly.
+8e65fb9a7d2be59b:
+  de: >-
+    <md-link>^1</md-link>: Zilp-Zalp kann optional einen Ombuds-Prozess
+    implementieren, der die Kontrolle über Daten für Ausnahmefälle
+    in die Hände drei (oder mehr) unabhängiger Kontrollinstanzen
+    legt. Hierdurch können in spezifischen Fällen (z.B. bei Schlüsselverlust
+    durch Nutzer) Daten entschlüsselt werden. Der Ombuds-Prozess
+    kann deaktiviert werden.
+  en: >-
+    [^1] : Zilp-Zalp can optionally implement an ombuds process
+    that puts control over data in the hands of three (or more)
+    independent controllers for exceptional cases. This allows
+    data to be decrypted in specific cases (e.g. if a user loses
+    a key). The ombuds process can be disabled.
 8ef9bcf0b1526075:
   de: >-
     Dies ist ein Testdsfd sfs fsfsd sfs fsfdsfjdsfdsjfds jslkfjdslkf
@@ -108,9 +265,39 @@
     This is a Testdsfd sfs fsfsd sfs fsfdsfjdsjfds jslkfjdslkf
     slkfjslkf jslfjs lfjslkfjs lfjslkfjds lkfjslkfjdslf jsfldsjf
     lskjf lskjfldskj
+98661ef34bf8406f:
+  de: >2-
+     Kontaktnachverfolgung sollte kein Geschäftsmodell sein. Software
+    für die Kontaktnachverfolgung mit personenbezogenen Daten
+    sollte <md-strong>gemeinwohlorientiert</md-strong> gestaltet
+    und <md-strong>ohne kommerzielle Interessen</md-strong> betrieben
+    werden. Vorab sollte streng geprüft werden, ob eine solche
+    Kontaktnachverfolgung überhaupt notwendig ist.
+  en: >2-
+     Contact tracing should not be a business model. Contact tracing
+    software with personal data should be designed **for the common
+    good** and operated **without commercial interests**. It should
+    be strictly assessed in advance whether such contact tracing
+    is necessary at all.
 9f722959a023c02a:
   de: Dies ist ein Test
   en: This is a test
+a27f6204de6d28bd:
+  de: >2-
+     Kontaktnachverfolgung sollte kein Geschäftsmodell sein. Software
+    für die Kontaktnachverfolgung mit personenbezogenen Daten
+    sollte <md-strong>gemeinwohl-orientiert</md-strong> gestaltet
+    und <md-strong>ohne kommerzielle Interessen</md-strong> betrieben
+    werden. Vorab sollte zudem streng geprüft werden, ob eine
+    solche Kontaktnachverfolgung überhaupt notwendig ist oder
+    ob komplett anonyme Lösungen zu bevorzugen sind.
+  en: >2-
+     Contact tracing should not be a business model. Contact tracing
+    software with personal data should be designed for the **common
+    good** and operated **without commercial interests**. It should
+    also be strictly assessed in advance whether such contact
+    tracing is necessary at all or whether completely anonymous
+    solutions are preferable.
 a5ad3bca888630b5:
   de: 'Zilp-Zalp ist eine '
   en: 'Zilp-Zalp is a '
@@ -156,6 +343,82 @@ b6233b1b491362de:
     good and operated without commercial interests. It should
     be strictly assessed in advance whether such contact tracing
     is necessary at all.
+c4254746d02fd637:
+  de: "Zilp-Zalp ist ein <md-strong>quelloffenes</md-strong>,\
+    \ <md-strong>frei nutzbares</md-strong> Software-System für\
+    \ die <md-strong>digital-analoge</md-strong> Kontaktnachverfolgung.\
+    \ Es wurde nach Prinzipien des <md-strong>Privacy By Design</md-strong>\
+    \ gestaltet und minimiert systematisch Privatshäre- & Sicherheits-Risiken\
+    \ für Nutzer. Die Software schützt auch Betreiber von Ortschaften\
+    \ und verhindert technisch, dass die zur reinen Kontaktnachverfolgung\
+    \ erhobenen Daten anderweitig eingesetzt werden können. "
+  en: "Zilp-Zalp is an **open source**, **free-to-use** software\
+    \ system for **digital-analog** contact tracing. It was designed\
+    \ according to **Privacy By Design** principles and systematically\
+    \ minimizes privacy & security risks for users. The software\
+    \ also protects operators of localities and technically prevents\
+    \ the data collected for pure contact tracing from being used\
+    \ elsewhere. "
+e30208a33b6934db:
+  de: >-
+    Zilp-Zalp ist ein <md-strong>quelloffenes</md-strong>, <md-strong>frei
+    nutzbares</md-strong> Software-System für die <md-strong>digital-analoge</md-strong>
+    Kontaktnachverfolgung. Es wurde mit Prinzipien des <md-strong>Privacy
+    By Design & Default</md-strong> gestaltet und minimiert systematisch
+    Risiken für Betroffene, deren Daten verarbeitet werden.
+  en: >-
+    Zilp-Zalp is an **open source**, **freely usable** software
+    system for **digital-analog** contact tracing. It was designed
+    with **Privacy By Design & Default** principles and systematically
+    minimizes risks for data subjects whose data is processed.
 e3b0c44298fc1c14:
   de: ''
   en: ''
+e6b172e2c29fb244:
+  de: "Zilp-Zalp ist ein <md-strong>quelloffenes</md-strong>,\
+    \ <md-strong>frei nutzbares</md-strong> Software-System für\
+    \ die <md-strong>digital-analoge</md-strong> Kontaktnachverfolgung.\
+    \ Es wurde nach Prinzipien des <md-strong>Privacy By Design</md-strong>\
+    \ gestaltet und minimiert systematisch Privatshäre- & Sicherheits-Risiken\
+    \ für Nutzer des Systems. Die Software schützt auch Betreiber\
+    \ von Ortschaften und verhindert technisch, dass die zur reinen\
+    \ Kontaktnachverfolgung erhobenen Daten anderweitig eingesetzt\
+    \ werden können. "
+  en: "Zilp-Zalp is an **open source**, **free-to-use** software\
+    \ system for **digital-analog** contact tracing. It was designed\
+    \ according to **Privacy By Design** principles and systematically\
+    \ minimizes privacy & security risks for users of the system.\
+    \ The software also protects operators of localities and technically\
+    \ prevents the data collected for pure contact tracking from\
+    \ being used elsewhere. "
+ec33680927a19d67:
+  de: >-
+    Zudem minimiert Zilp-Zalp systematisch Möglichkeiten zur Erfassung
+    und Auswertung von Meta-Daten, die in Systemen zur Kontaktnachverfolgung
+    neben den eigentlich erhobenen Daten ebenfalls ein erhebliches
+    Privatsphäre-Risiko darstellen. Wir sind überzeugt, dass Zilp-Zalp
+    das <md-strong>datenschutzfreundlichste Software-System zur
+    Kontaktnachverfolgung</md-strong> ist. Es erfüllt zudem alle
+    gesetzlichen Anforderungen an die Kontaktnachverfolgung und
+    sollte daher kommerziell betriebenen Systemen bevorzugt werden.
+  en: >-
+    In addition, Zilp-Zalp systematically minimizes opportunities
+    to collect and analyze meta-data, which also poses a significant
+    privacy risk in contact tracking systems in addition to the
+    actual data collected. We believe that Zilp-Zalp is the **most
+    privacy-friendly contact tracking software system** available.
+    It also meets all legal requirements for contact tracking
+    and should therefore be preferred over commercially operated
+    systems.
+f240410141d3c745:
+  de: >-
+    Zilp-Zalp ist ein <md-strong>quelloffenes</md-strong>, <md-strong>frei
+    nutzbares</md-strong> Software-System für die <md-strong>digital-analoge</md-strong>
+    Kontaktnachverfolgung. Es wurde mit Prinzipien des <md-strong>Privacy
+    By Design</md-strong> gestaltet und minimiert systematisch
+    Risiken für Betroffene, deren Daten verarbeitet werden.
+  en: >-
+    Zilp-Zalp is an **open source**, **free-to-use** software
+    system for **digital-analog** contact tracing. It was designed
+    with **Privacy By Design** principles and systematically minimizes
+    risks for data subjects whose data is processed.

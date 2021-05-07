@@ -69,6 +69,10 @@ strong {
         line-height: 1.5;
     }
 
+    ol, ul {
+        color: #000;
+    }
+
     h2 {
         max-width: 800px;
         margin: 0 auto !important;
@@ -276,7 +280,14 @@ img.country {
 
     @media(max-width: $tablet){
         display: flex;
-        flex-direction: column;        
+        flex-direction: column;
+        margin-top: 0;
+    }
+
+    .column.is-4 {
+        @media(max-width: $tablet){
+            margin-top: 20px;
+        }
     }
 
     &.is-mobile-reversed {
@@ -292,6 +303,9 @@ img.country {
 
     &:not(:last-child) {
         margin-bottom: 80px;
+        @media(max-width: $tablet){
+            margin-bottom: 0px;
+        }
     }
 }
 
@@ -421,7 +435,8 @@ a {
     &:hover {
         color: #48f;
     }
-    color: #48f;
+    color: $primary-background;
+    font-weight: bolder;
     text-decoration: underline;
 }
 
