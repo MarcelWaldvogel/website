@@ -1,6 +1,6 @@
-# KIProtect Documentation
+# Zilp-Zalp Website
 
-These files are used to build the documentation at https://kiprotect.com/docs.
+These files are used to build the website at https://zilpzalp.eu.
 
 ## Setting up the environment
 
@@ -36,7 +36,7 @@ make serve
 This will start a HTTP server on port 8000 serving a hot-reloading version of
 the docs.
 
-## Watching out for changes
+## Fast Development With Auto-Reloading
 
 To continuously update the build when things change, simply run
 
@@ -46,3 +46,20 @@ make watch
 
 The watch command will automatically serve the docs as well using a
 hot-reloading capable server.
+
+## Translations
+
+We use a machine-learning based translation service (DeepL) in combination with hand-tuning of inaccurate translations to generate different language-versions of this documentation. Our reference language for site content is `German`. To launch the auto-translation you'll need a valid DeepL-token. If you just want to contribute to the docs you can write your content in German or English and we'll take care of the translations. If you still want to experiment with the auto-translation mechanism you can simply run:
+
+    TOKEN=[DeepL token] make translate
+
+This will translate the configuration files, markdown texts and translation strings (used in HTML templates). You can fine-tune the translations by editing the corresponding YAML files ([filename].trans for configs and markdown). Be aware though that we use a hashing-based mechanism to detect outdated translations. Hence, if you modify a translated text and later modify the source text it will get re-translated and your modifications will be overwritten.
+
+
+## Third-Party Code
+
+We use the following third-party libraries in this codebase (in addition to the ones specified in `package.json` and `requirements.txt`):
+
+* [Bulma](https://github.com/jgthms/bulma)
+* [Open Sans](https://github.com/googlefonts/opensans)
+* [McLaren](https://github.com/google/fonts/tree/main/ofl/mclaren)
