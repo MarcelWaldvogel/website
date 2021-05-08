@@ -6,6 +6,16 @@ lp:
     de: Brochüre herunterladen
     en: Download brochure
   feature-1:
+    alt:
+      _t:
+        de: e2c7af3b9629289f
+        en: e2c7af3b9629289f
+      de: >-
+        Ein Bild, das die einfache Installation und Nutzung von
+        Zilp-Zalp verdeutlicht.
+      en: >-
+        A picture that illustrates the ease of installation and
+        use of Zilp-Zalp.
     text:
       _t:
         de: 6e34863aadf03507
@@ -30,6 +40,16 @@ lp:
       en: Secure, privacy-friendly contact tracing for all of
         us
   feature-2:
+    alt:
+      _t:
+        de: a6aae0e46e8b2b40
+        en: a6aae0e46e8b2b40
+      de: >-
+        Ein Bild, das ein Heft mit Zilp-Zalp QR-Codes zeigt und
+        die analoge, papiergestützte Kontaktnachverfolgung illustriert.
+      en: >-
+        An image showing a booklet with Zilp-Zalp QR codes illustrating
+        analog, paper-based contact tracking.
     text:
       _t:
         de: 9846e12bec34c5cd
@@ -53,6 +73,17 @@ lp:
         Barrier-free use through a combination of digital and
         analogue technologies.
   feature-3:
+    alt:
+      _t:
+        de: deb5d9e3d0d561ff
+        en: deb5d9e3d0d561ff
+      de: >-
+        Ein Bild einer durchgestrichenen Überwachungskamera, was
+        die privatsphäre-freundliche Gestaltung von Zilp-Zalp
+        symbolisiert.
+      en: >-
+        A picture of a crossed-out surveillance camera, symbolizing
+        the privacy-friendly design of Zilp-Zalp.
     text:
       _t:
         de: 471df8347503959b
@@ -76,6 +107,17 @@ lp:
         en: c20c6143d378fcc6
       de: Echtes "Privacy By Design"
       en: True Privacy By Design
+  main-illustration:
+    alt:
+      _t:
+        de: f7754fb26e3c187d
+        en: f7754fb26e3c187d
+      de: >-
+        Ein Bild, das die Nutzung von Zilp-Zalp zur Kontaktnachverfolgung
+        in einem Restaurant zeigt.
+      en: >-
+        An image showing the use of Zilp-Zalp for contact tracking
+        in a restaurant.
   teaser:
     _t:
       de: cd7d974c63485a9a

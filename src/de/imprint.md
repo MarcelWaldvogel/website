@@ -15,6 +15,6 @@ Bismarckstr. 10-12
 
 ## Datenschutz
 
-Der im Sinne der DSGVO Verantwortliche ist ebenfalls die <strong>Zilp-Zalp GbR</strong>. Diese Webseite enthält keinerlei selbstladende Dritt-Ressourcen wie Analytics-Tracker oder eingebettete Inhalte. Falls solche Inhalte (z.B. externe Videos) verwendet werden, erfolgt dies nur nach expliziter Zustimmung durch den Nutzer.
+Der im Sinne der DSGVO Verantwortlicher ist ebenfalls die <strong>Zilp-Zalp GbR</strong>. Diese Webseite enthält keinerlei selbstladende Dritt-Ressourcen wie Analytics-Tracker oder eingebettete Inhalte. Falls solche Inhalte (z.B. externe Videos) verwendet werden, erfolgt dies nur nach expliziter Zustimmung durch den Nutzer.
 
 Wir erheben keinerlei personenbezogene Daten.

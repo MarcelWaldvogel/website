@@ -19,7 +19,7 @@
     <div class="navbar-brand">
       <a class="navbar-item" href="{{''|href}}">
         {% block logo %}
-        <img src="{{'images/logos/logo.png'|file}}" />
+        <img alt="The Zilp-Zalp logo" src="{{'images/logos/logo.png'|file}}" />
         {% endblock %}
       </a>
       <span class="navbar-burger burger" data-target="side-menu" data-toggle="collapse">
@@ -64,8 +64,8 @@
             {% endif %}
         {% endfor %}
         <div class="navbar-item has-dropdown is-hoverable">
-          <a class="navbar-link">
-            🗺️ {{lang}}
+          <a title="{{'languages-link'|translate}}" tabindex="0" class="navbar-link">
+            🌍 {{lang}}
           </a>
 
           {% if page is defined %}
@@ -78,7 +78,7 @@
           <div class="navbar-dropdown">
           {% for language, language_config in site.config.languages.items() %}
               {% if link|href(language=language) != None %}
-                <a class="navbar-item" href="{{link|href(language=language)}}">
+                <a tabindex="0" class="navbar-item" href="{{link|href(language=language)}}">
                     {{language_config.language_title}}
                 </a>
               {% endif %}
@@ -97,7 +97,7 @@
       <aside class="menu">
         <h2 class="menu-label">
             <a href="{{''|href}}">
-              <img style="height: 40px" src="{{'images/logos/logo.png'|file}}" />
+              <img alt="Zhe Zilp-Zalp logo" style="height: 40px" src="{{'images/logos/logo.png'|file}}" />
             </a>
         </h2>
         {% block extra_nav %}{% endblock %}

@@ -18,6 +18,6 @@ pages:
     navtitle|t: Github
     url: https://github.com/zilp-zalp
   - name: contact
-    title|t: Kontakt & Impressum
-    navtitle|t: Kontakt & Impressum
+    title|t: Kontakt
+    navtitle|t: Kontakt
     src|f|exists?: "{target_language}/imprint.md"

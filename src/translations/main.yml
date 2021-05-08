@@ -17,6 +17,12 @@ hp:
       This website has been mostly translated automatically from
       the [English version]({url}). We apologize for any translation
       errors.
+languages-link:
+  _t:
+    de: dea3aab41357c671
+    en: dea3aab41357c671
+  de: Sprachauswahl
+  en: Language selection
 not-found:
   text:
     _t:
