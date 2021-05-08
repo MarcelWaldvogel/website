@@ -205,6 +205,11 @@ p {
     
 }
 
+a.button.is-download {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
 .index-overview table.table tbody tr td:first-child {
     @media(min-width: $mobile + 1px){
         a {
@@ -225,6 +230,7 @@ h1.title {
 }
 
 p.teaser {
+    font-weight: 600;
     @media(min-width: $tablet + 1px){
         font-size: 1.3em;       
     }
@@ -234,6 +240,10 @@ p.teaser {
 h2.subtitle {
     font-weight: 300;
     text-align: left;
+    font-size: 1.2em;
+    @media(min-width: $tablet + 1px){
+        font-size: 1.3em;
+    }
 }
 
 .box {

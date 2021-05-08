@@ -1,4 +1,10 @@
 lp:
+  download-brochure:
+    _t:
+      de: ac71dad0dfc5fb3a
+      en: ac71dad0dfc5fb3a
+    de: Brochüre herunterladen
+    en: Download brochure
   feature-1:
     text:
       _t:
