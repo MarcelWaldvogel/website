@@ -49,13 +49,14 @@ lp:
   feature-3:
     text:
       _t:
-        de: 331dcae91ce731f6
-        en: 331dcae91ce731f6
+        de: 6c34fee576dc7913
+        en: 6c34fee576dc7913
       de: "Zilp-Zalp reduziert systematisch die Erfassung und\
         \ Verarbeitung von personenbezogenen Daten und bietet\
         \ bessere Sicherheits- & Privatsphäre- Garantien als andere\
-        \ Systeme. Zilp-Zalp kann zudem dezentral und föderiert\
-        \ betrieben werden. "
+        \ Systeme. Eine Nutzung komplett ohne personenbezogene\
+        \ Daten ist ebenfalls möglich. Zilp-Zalp kann zudem dezentral\
+        \ und föderiert betrieben werden. "
       en: "Zilp-Zalp systematically reduces the collection and\
         \ processing of personal data and offers better security\
         \ & privacy guarantees than other systems. Zilp-Zalp can\
@@ -68,12 +69,12 @@ lp:
       en: True Privacy By Design
   teaser:
     _t:
-      de: 1eee4ff53a7c326e
-      en: 1eee4ff53a7c326e
+      de: cd7d974c63485a9a
+      en: cd7d974c63485a9a
     de: >-
-      Zilp-Zalp ist eine nicht-kommerzielle, quellenoffene Software
-      für die privatsphäre-freundliche Kontaktnachverfolgung mit
-      personenbezogenen Daten.
+      Zilp-Zalp ist eine nicht-kommerzielle, kostenlose und quellenoffene
+      Software-Lösung für barrierefreie und privatsphäre-freundliche
+      digital-analoge Kontaktnachverfolgung.
     en: >-
       Zilp-Zalp is a non-commercial, open source software for
       privacy-friendly contact tracing with personal data.

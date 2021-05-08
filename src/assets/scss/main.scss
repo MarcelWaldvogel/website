@@ -216,11 +216,19 @@ p {
 
 h1.title {
     font-weight: 300;
-    @media(min-width: $desktop + 1px){
+    @media(min-width: $tablet + 1px){
         font-size: 4em;
         margin-bottom: 1em !important;
     }
+    font-size: 3em;
     text-align: left;
+}
+
+p.teaser {
+    @media(min-width: $tablet + 1px){
+        font-size: 1.3em;       
+    }
+    font-size: 1.3em;
 }
 
 h2.subtitle {
