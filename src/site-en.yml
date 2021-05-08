@@ -17,6 +17,7 @@ pages:
   url: https://github.com/zilp-zalp
 - name: contact
   navtitle: Contact
+  slug: contact
   src: en/imprint.md
   title: Contact
 title: Zilp-Zalp

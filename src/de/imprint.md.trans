@@ -1,15 +1,13 @@
 086b3d6daeb67685:
   de: <pre>
   en: <pre>
+1342da3dbf41bad6:
+  de: >-
+    Wir erheben keinerlei personenbezogene Daten auf dieser Webseite.
+  en: We do not collect any personal data on this website.
 1c52ea5e7c5ddac4:
   de: <md-heading v="##">Impressum</md-heading>
   en: '## Imprint'
-25d15b2e355d200f:
-  de: 10625 Berlin
-  en: 10625 Berlin
-26dadf45a76e7c21:
-  de: Bismarckstr. 10-12
-  en: Bismarckstr. 10-12
 485b0c2c3b23c2f8:
   de: </pre>
   en: </pre>
@@ -33,9 +31,6 @@
 89907c5759d6e367:
   de: Zilp-Zalp GbR
   en: Zilp-Zalp GbR
-89a40a5cee611b9c:
-  de: c/o KIProtect GmbH
-  en: c/o KIProtect GmbH
 a3825b9b77f1237c:
   de: <md-heading v="##">Datenschutz</md-heading>
   en: '## Data protection'
@@ -50,16 +45,23 @@ ab9862835f5f0f89:
     If you want to know how you can use Zilp-Zalp [contact us](mailto:kontakt@zilpzalp.eu),
     we will be happy to support and advise you free of charge
     and without obligation on the use and operation of the software!
-b9a71fa351f042b1:
-  de: Wir erheben keinerlei personenbezogene Daten.
-  en: We do not collect any personal data.
-c468c667efe8a3c8:
+b10f57ef6daef759:
+  de: 10707 Berlin
+  en: 10707 Berlin
+bb90938cd024a9ff:
+  de: c/o Andreas Dewes
+  en: c/o Andreas Dewes
+defa28ef56cebe2b:
   de: >-
-    Veranwortlich für den Inhalt dieser Seiten ist die <strong>Zilp-Zalp
-    GbR</strong>. Sie erreichen uns am Besten per <md-link href="bWFpbHRvOmtvbnRha3RAemlscHphbHAuZXU=">E-Mail</md-link>.
+    Veranwortlich für den Inhalt dieser Seiten ist die (nicht-gewerbliche)
+    <strong>Zilp-Zalp GbR</strong>. Sie erreichen uns am Besten
+    per [E-Mail](mailto:kontakt@zilpzalp.eu).
   en: >-
-    Responsible for the content of these pages is the <strong>Zilp-Zalp
-    GbR.</strong> You can reach us best by [e-mail](mailto:kontakt@zilpzalp.eu).
+    Responsible for the content of these pages is the (non-commercial)
+    <strong>Zilp-Zalp GbR.</strong> You can reach us best by [e-mail](mailto:kontakt@zilpzalp.eu).
 e3b0c44298fc1c14:
   de: ''
   en: ''
+f95ee54cd92d0a5b:
+  de: Sächsische Str. 26
+  en: Sächsische Str. 26

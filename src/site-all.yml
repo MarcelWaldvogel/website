@@ -19,5 +19,6 @@ pages:
     url: https://github.com/zilp-zalp
   - name: contact
     title|t: Kontakt
+    slug||slugify: Kontakt
     navtitle|t: Kontakt
     src|f|exists?: "{target_language}/imprint.md"
