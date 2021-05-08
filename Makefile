@@ -19,11 +19,11 @@ sass:
 	node_modules/.bin/node-sass src/assets/scss/main.scss src/static/css/main.css
 
 translate:
-	@if [ -n "$(TOKEN)" ]; then venv/bin/beam i18n translate $(TOKEN) src $(TA); fi;
+	@if [ -n "$(TOKEN)" ]; then venv/bin/beam i18n translate -c $(TOKEN) src $(TA); fi;
 
 translate-config:
 	@if [ ! -n "$(TOKEN)" ]; then echo "Please set the translation token as the TOKEN variable." && exit 1; fi;
-	venv/bin/beam i18n translate-config $(TOKEN) src $(TA)
+	venv/bin/beam i18n translate-config -c $(TOKEN) src $(TA)
 
 optimize: optimize-images optimize-html
 

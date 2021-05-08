@@ -5,7 +5,7 @@
 Zilp-Zalp ist ein **quelloffenes**, **frei nutzbares** Software-System für die **digital-analoge** Kontaktnachverfolgung. Es wurde nach Prinzipien des **Privacy By Design** gestaltet und minimiert systematisch Privatshäre- & Sicherheits-Risiken für Nutzer des Systems. Die Software schützt auch Betreiber von Ortschaften und verhindert technisch, dass die zur reinen Kontaktnachverfolgung erhobenen Daten anderweitig eingesetzt werden können. 
 
 Zilp-Zalp kann sehr einfach **dezentral** betrieben werden, Daten können **ausfallsicher** und **redundant** in einer **föderierten Infrastruktur** gespeichert werden. Zilp-Zalp implementiert als einziges System zur Kontaktnachverfolgung zudem eine **starke kryptographische Zweckbindung** von Daten.
-Eine anlasslose Entschlüsselung dieser ist bei Zilp-Zalp nicht möglich, die Kontrolle über die Daten liegt vielmehr allein bei betroffenen Personen[^1].
+Eine anlasslose Entschlüsselung dieser ist bei Zilp-Zalp nicht möglich, die Kontrolle über die Daten liegt vielmehr allein bei betroffenen Personen [^1].
 Zudem minimiert Zilp-Zalp systematisch Möglichkeiten zur Erfassung und Auswertung von Meta-Daten, die in Systemen zur Kontaktnachverfolgung neben den eigentlich erhobenen Daten ebenfalls ein erhebliches Privatsphäre-Risiko darstellen. Wir sind überzeugt, dass Zilp-Zalp das **datenschutzfreundlichste Software-System zur Kontaktnachverfolgung** ist. Es erfüllt zudem alle gesetzlichen Anforderungen an die Kontaktnachverfolgung und sollte daher kommerziell betriebenen Systemen bevorzugt werden.
 
 ## Weitere Informationen

@@ -55,18 +55,21 @@ lp:
   feature-3:
     text:
       _t:
-        de: 6c34fee576dc7913
-        en: 6c34fee576dc7913
-      de: "Zilp-Zalp reduziert systematisch die Erfassung und\
-        \ Verarbeitung von personenbezogenen Daten und bietet\
-        \ bessere Sicherheits- & Privatsphäre- Garantien als andere\
-        \ Systeme. Eine Nutzung komplett ohne personenbezogene\
-        \ Daten ist ebenfalls möglich. Zilp-Zalp kann zudem dezentral\
-        \ und föderiert betrieben werden. "
-      en: "Zilp-Zalp systematically reduces the collection and\
-        \ processing of personal data and offers better security\
-        \ & privacy guarantees than other systems. Zilp-Zalp can\
-        \ also be operated in a decentralized and federated manner. "
+        de: 471df8347503959b
+        en: 471df8347503959b
+      de: >-
+        Zilp-Zalp reduziert systematisch die Erfassung und Verarbeitung
+        von personenbezogenen Daten und bietet bessere Sicherheits-
+        & Privatsphäre- Garantien als andere Systeme. Eine Nutzung
+        komplett ohne personenbezogene Daten ist ebenfalls möglich.
+        Zilp-Zalp kann zudem dezentral und föderiert betrieben
+        werden.
+      en: >-
+        Zilp-Zalp systematically reduces the collection and processing
+        of personal data and offers better security & privacy
+        guarantees than other systems. A use completely without
+        personal data is also possible. Zilp-Zalp can also be
+        operated in a decentralized and federated manner.
     title:
       _t:
         de: c20c6143d378fcc6
@@ -82,8 +85,9 @@ lp:
       Software-Lösung für barrierefreie und privatsphäre-freundliche
       digital-analoge Kontaktnachverfolgung.
     en: >-
-      Zilp-Zalp is a non-commercial, open source software for
-      privacy-friendly contact tracing with personal data.
+      Zilp-Zalp is a non-commercial, free and open source software
+      solution for accessible and privacy-friendly digital-analog
+      contact tracing.
   title:
     _t:
       de: 673cec5249cded16
