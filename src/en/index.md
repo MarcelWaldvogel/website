@@ -11,6 +11,6 @@ In addition, Zilp-Zalp systematically minimizes opportunities to collect and ana
 
 ## Further information
 
-Have a look at [our documentation]({% if lang == 'en'%}/en/docs{% else %}/doku{%endif%}) and our [Github page](https://github.com/zilp-zalp) to learn more about using Zilp-Zalp. Or just [contact us](mailto:zelp@zilpzalp.eu) !
+Have a look at [our documentation]({% if lang == 'en'%}/en/docs{% else %}/doku{%endif%}) and our [Github page](https://github.com/zilp-zalp) to learn more about using Zilp-Zalp. Or just [contact us](mailto:kontakt@zilpzalp.eu) !
 
 [^1] : Zilp-Zalp can optionally implement an ombuds process that puts control over data in the hands of three (or more) independent controllers for exceptional cases. This allows data to be decrypted in specific cases (e.g. if a user loses a key). The ombuds process can be disabled.

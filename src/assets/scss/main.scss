@@ -23,10 +23,6 @@ body {
     }
 }
 
-a {
-    color: #eee;
-}
-
 #translation-notice {
     display: none;
     .message {
@@ -55,27 +51,27 @@ a {
 }
 
 strong {
-    color: $primary-background;
+    color: $primary-accent;
 }
 
 .content {
     strong {
-        color: $primary-background;
+        color: $primary-accent;
         font-weight: 600;
     }
     h1, h2, h3, h4, h5, h6 {
         font-weight: 300;
         color: #fff;
         line-height: 1.5;
+
+        &:not(:first-child) {
+            margin-top: 40px;
+        }
+
     }
 
     ol, ul {
         color: #000;
-    }
-
-    h2 {
-        max-width: 800px;
-        margin: 0 auto !important;
     }
 
     h4 {
@@ -89,14 +85,19 @@ strong {
         margin-bottom: 40px;
     }
 
-    p:not(:last-child) {
+    p:not(:last-of-type) {
         line-height: 1.6;
-        margin-bottom: 50px;
+        margin-bottom: 20px;
     }
 
     h1 {
         margin-bottom: 0;
         margin-top: -20px;
+
+        &:not(:first-child){
+            margin-top: 10px;
+        }
+
         @media(min-width: $tablet){
             font-size: 60px;
         }
@@ -208,15 +209,6 @@ p {
 a.button.is-download {
     margin-top: 40px;
     margin-bottom: 40px;
-}
-
-.index-overview table.table tbody tr td:first-child {
-    @media(min-width: $mobile + 1px){
-        a {
-            padding-right: 0;
-        }
-        width: 300px;
-    }
 }
 
 h1.title {
@@ -361,7 +353,32 @@ img.country {
     a {
         color: #fff;
         font-weight: 300;
+        text-decoration: none;
+        border-bottom: none;
     }
+
+    .navbar-item.has-dropdown {
+        &:hover {
+            a.navbar-link {
+                color: #000;
+                &::after {
+                    border-color: #000;
+                }
+            }            
+        }
+        a.navbar-link::after {
+            border-color: #fff;
+        }
+
+        .navbar-dropdown {
+            border-top-width: 1px;
+            a {
+                color: #000;            
+            }
+        }
+
+    }
+
 
     .navbar-center {
         width: 100%;
@@ -393,26 +410,6 @@ img.country {
         p {
             font-size: 1.1rem;
         }
-    }
-
-    a {
-        text-decoration: none;
-    }
-
-    &.is-dark {
-
-        background: #222 !important;
-        border-bottom: 2px solid #333;
-
-        a.navbar-item {
-            padding: 0.75rem;
-            color: #fff;
-        }
-
-        a.navbar-item:hover, a.navbar-item:active, a.navbar-item:visited {
-            background: #37a;
-        }
-
     }
 
     .navbar-dropdown.is-active {
@@ -454,11 +451,11 @@ pre, code {
 
 a {
     &:hover {
-        color: #48f;
+        color: $primary-accent;
     }
-    color: $primary-background;
-    font-weight: bolder;
-    text-decoration: underline;
+    color: $primary-accent;
+    font-weight: 600;
+    border-bottom: 3px dotted $primary-accent;
 }
 
 section.section {
@@ -520,6 +517,7 @@ a.btn {
         color: #fff;
         border-left: none;
         text-decoration: none;
+        border-bottom: none;
     }
 
     .menu-label {
@@ -657,6 +655,24 @@ a.btn {
         margin: 0;
         padding: 0;
         margin-bottom: 28px;
+    }
+
+}
+
+.is-light {
+    a {
+        &:hover {
+            color: $primary-background;
+        }
+        color: $primary-background;
+        border-bottom-color: $primary-background;     
+    }
+
+    strong {
+        color: $primary-background;
+    }
+
+    p, h1, h2, h3, h4, h5, h6 {
         color: #000;
     }
 

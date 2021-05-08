@@ -16,7 +16,7 @@ pages:
   title: Github
   url: https://github.com/zilp-zalp
 - name: contact
-  navtitle: Kontakt
-  title: Kontakt
-  url: mailto:zelp@zilpzalp.eu
+  navtitle: Kontakt & Impressum
+  src: de/imprint.md
+  title: Kontakt & Impressum
 title: Zilp-Zalp

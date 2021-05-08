@@ -235,6 +235,18 @@
     system for **digital-analog** contact tracing. It was designed
     according to **Privacy By Design** principles and systematically
     minimizes privacy risks for data subjects whose data is processed.
+87ee81f9ec024010:
+  de: >-
+    Schauen Sie doch in <md-link href="PGlnbm9yZSB2PSJleVVnYVdZZ2JHRnVaeUE5UFNBblpXNG5KWDA9IiAvPi9lbi9kb2NzeyUgZWxzZSAlfS9kb2t1eyVlbmRpZiV9">unsere
+    Dokumentation</md-link> und auf unsere <md-link href="aHR0cHM6Ly9naXRodWIuY29tL3ppbHAtemFscA==">Github-Seite</md-link>
+    um mehr über den Einsatz von Zilp-Zalp zu erfahren. Oder <md-link
+    href="bWFpbHRvOmtvbnRha3RAemlscHphbHAuZXU=">kontaktieren Sie
+    uns</md-link> einfach!
+  en: >-
+    Have a look at [our documentation]({% if lang == 'en'%}/en/docs{%
+    else %}/doku{%endif%}) and our [Github page](https://github.com/zilp-zalp)
+    to learn more about using Zilp-Zalp. Or just [contact us](mailto:kontakt@zilpzalp.eu)
+    !
 885c85f6653537a0:
   de: >-
     Bestehende kommerzielle Lösungen zur digitalen Kontaktnachverfolgung

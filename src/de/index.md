@@ -10,6 +10,6 @@ Zudem minimiert Zilp-Zalp systematisch Möglichkeiten zur Erfassung und Auswertu
 
 ## Weitere Informationen
 
-Schauen Sie doch in [unsere Dokumentation]({% if lang == 'en'%}/en/docs{% else %}/doku{%endif%}) und auf unsere [Github-Seite](https://github.com/zilp-zalp) um mehr über den Einsatz von Zilp-Zalp zu erfahren. Oder [kontaktieren Sie uns](mailto:zelp@zilpzalp.eu) einfach!
+Schauen Sie doch in [unsere Dokumentation]({% if lang == 'en'%}/en/docs{% else %}/doku{%endif%}) und auf unsere [Github-Seite](https://github.com/zilp-zalp) um mehr über den Einsatz von Zilp-Zalp zu erfahren. Oder [kontaktieren Sie uns](mailto:kontakt@zilpzalp.eu) einfach!
 
 [^1]: Zilp-Zalp kann optional einen Ombuds-Prozess implementieren, der die Kontrolle über Daten für Ausnahmefälle in die Hände drei (oder mehr) unabhängiger Kontrollinstanzen legt. Hierdurch können in spezifischen Fällen (z.B. bei Schlüsselverlust durch Nutzer) Daten entschlüsselt werden. Der Ombuds-Prozess kann deaktiviert werden.

@@ -63,6 +63,29 @@
                   {% endif %}
             {% endif %}
         {% endfor %}
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link">
+            🗺️ {{lang}}
+          </a>
+
+          {% if page is defined %}
+            {% set link=page.name %}
+          {% elif name is defined %}
+            {% set link=name %}
+          {% else %}
+            {% set link='' %}
+          {% endif %}
+          <div class="navbar-dropdown">
+          {% for language, language_config in site.config.languages.items() %}
+              {% if link|href(language=language) != None %}
+                <a class="navbar-item" href="{{link|href(language=language)}}">
+                    {{language_config.language_title}}
+                </a>
+              {% endif %}
+          {% endfor %}
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
