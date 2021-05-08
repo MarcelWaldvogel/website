@@ -294,6 +294,7 @@ img.country {
 
 .columns {
     margin-top: 80px;
+    margin-right: 0;
     padding: 10px;
 
     @media(max-width: $tablet){
@@ -351,6 +352,7 @@ img.country {
     padding-top: 10px;
     padding-bottom: 10px;
     background: none;
+    font-size: 0.9em;
 
     @media(min-width: $tablet + 1px){
         // display: none;
@@ -358,6 +360,7 @@ img.country {
 
     a {
         color: #fff;
+        font-weight: 300;
     }
 
     .navbar-center {
@@ -458,33 +461,30 @@ a {
     text-decoration: underline;
 }
 
-.main {
+section.section {
+    max-width: 1000px;
 
-    section.section {
-        max-width: 1000px;
-
-        &.wide {
-            max-width: 1600px;
-        }
-
-        @media(max-width: $mobile){
-            padding: 1rem;
-        }
+    &.wide {
+        max-width: 1600px;
     }
 
-    section.section.first {
-
-        padding-top: 34px;
-        @media(max-width: $tablet + 1px){
-            padding-top: 20px;
-        }
+    @media(max-width: $mobile){
+        padding: 1rem;
     }
+}
 
-    @media(min-width: $tablet + 1px){
-        min-height: 100vh;
-        padding-left: 340px;
-        position: relative;    
+section.section.first {
+
+    padding-top: 54px;
+    @media(max-width: $tablet + 1px){
+        padding-top: 10px;
     }
+}
+
+@media(min-width: $tablet + 1px){
+    min-height: 100vh;
+    padding-left: 340px;
+    position: relative;    
 }
 
 .container {
