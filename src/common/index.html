@@ -8,11 +8,11 @@
 			<p class="teaser">
 				{{'lp.teaser'|translate}}
 			</p>
-			{#
+			{% if lang == "de" %}
 			<p>
-				<a href="#" class="button is-success is-download">{{'lp.download-brochure'|translate}}</a>
+				<a href="{{'zilp-zalp.pdf'|file}}" class="button is-success is-download">{{'lp.download-brochure'|translate}}</a>
 			</p>
-			#}
+			{% endif %}
 		</div>
 		<div class="column is-6">
 			{{'images/zeplin/landingpage/illustration-headline.png'|picture(class="img-fluid",alt="lp.main-illustration.alt"|translate)}}
